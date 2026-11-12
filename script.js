@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded', () => { const btn = document.querySelector('.btn-active'); btn.addEventListener('click', () => { alert('تم تفعيل البوت بنجاح'); }); console.log('Trading Bot Dashboard Initialized'); });
